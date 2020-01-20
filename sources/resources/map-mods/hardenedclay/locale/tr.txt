@@ -1,0 +1,21 @@
+# Türkçe çeviri mahmutelmas06 tarafından yapılmıştır.
+
+Hardened Clay = Pişmiş Toprak
+%s Hardened Clay = %s Pişmiş Toprak
+White = Beyaz
+Black = Siyah
+Light Blue = Açık mavi
+Green = Yeşil
+Red = Kırmızı
+Light Gray = Açık gri
+Purple = Mor
+Lime = Limon Sarısı
+Magenta = Mor pembe
+Orange = Turuncu
+Brown = Kahverengi
+Blue = Mavi
+Yellow = Sarı
+Pink = Pembe
+Cyan = Camgöbeği
+Gray = Gri
+

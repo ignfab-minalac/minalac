@@ -1,0 +1,13 @@
+// Filled in by the build system
+
+#ifndef CMAKE_CONFIG_H
+#define CMAKE_CONFIG_H
+
+#define USE_POSTGRESQL @USE_POSTGRESQL@
+#define USE_LEVELDB @USE_LEVELDB@
+#define USE_REDIS @USE_REDIS@
+
+#define SHAREDIR "@SHAREDIR@"
+
+#endif
+

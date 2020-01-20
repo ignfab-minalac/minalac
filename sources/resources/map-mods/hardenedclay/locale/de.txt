@@ -1,0 +1,22 @@
+# German Hardeded Clay translation
+# By: Xanthin and Sokomine
+
+Hardened Clay = Gebrannter Ton
+%s Hardened Clay = %ser gebrannter Ton
+White = Weiss
+Black = Schwarz
+Light Blue = Hellblau
+Green = Gruen
+Red = Rot
+Light Gray = Hellgrau
+Purple = Lilafarben
+Lime = Gelbgruen
+Magenta = Magentafarben
+Orange = Orangefarben
+Brown = Braun
+Blue = Blau
+Yellow = Gelb
+Pink = Rosafarben
+Cyan = Tuerkisfarben
+Gray = Grau
+

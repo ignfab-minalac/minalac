@@ -1,0 +1,21 @@
+# Template for Hardeded Clay translations
+
+Hardened Clay =
+%s Hardened Clay =
+White =
+Black =
+Light Blue =
+Green =
+Red =
+Light Gray =
+Purple =
+Lime =
+Magenta =
+Orange =
+Brown =
+Blue =
+Yellow =
+Pink =
+Cyan =
+Gray =
+

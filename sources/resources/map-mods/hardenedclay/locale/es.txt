@@ -1,0 +1,22 @@
+# Spanish Hardeded Clay translation
+# By: ShadowNinja <shadowninja@minetest.net>
+
+Hardened Clay = Arcilla Duro
+%s Hardened Clay = Arcilla Duro %s
+White = Blanco
+Black = Negro
+Light Blue = Azul Claro
+Green = Verde
+Red = Rojo
+Light Gray = Gris Claro
+Purple = Purpura
+Lime = Lima
+Magenta = Magenta
+Orange = Anaranjado
+Brown = Marron
+Blue = Azul
+Yellow = Amarillo
+Pink = Rosa
+Cyan = Turquesa
+Gray = Gris
+

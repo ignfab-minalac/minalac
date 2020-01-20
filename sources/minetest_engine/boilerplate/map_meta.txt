@@ -1,0 +1,46 @@
+chunksize = 5
+mg_biome_np_heat = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 3
+	offset = 50
+	persistence = 0.5
+	scale = 50
+	seed = 5349
+	spread = (1000,1000,1000)
+}
+mg_biome_np_heat_blend = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 2
+	offset = 0
+	persistence = 1
+	scale = 1.5
+	seed = 13
+	spread = (8,8,8)
+}
+mg_biome_np_humidity = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 3
+	offset = 50
+	persistence = 0.5
+	scale = 50
+	seed = 842
+	spread = (1000,1000,1000)
+}
+mg_biome_np_humidity_blend = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 2
+	offset = 0
+	persistence = 1
+	scale = 1.5
+	seed = 90003
+	spread = (8,8,8)
+}
+mg_flags = caves, dungeons, light, decorations
+mg_name = singlenode
+seed = 3239637243517702619
+water_level = 1
+[end_of_params]
